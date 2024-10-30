@@ -1,0 +1,13 @@
+# ------------------------------------------------------
+# THIS FILE WAS AUTOMATICALLY GENERATED (DO NOT MODIFY)
+# ------------------------------------------------------
+
+type UserResponse {
+  id: Int!
+  name: String!
+  email: String!
+}
+
+type Query {
+  users: [UserResponse!]!
+}

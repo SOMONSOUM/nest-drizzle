@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1730285968144,
+      "tag": "0000_messy_sheva_callister",
+      "breakpoints": true
+    }
+  ]
+}
